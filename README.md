@@ -26,6 +26,8 @@ From the repository root:
 ```bash
 dotnet test FizzBuzz.Tests/FizzBuzz.Tests.csproj
 ```
+<img width="1067" height="138" alt="image" src="https://github.com/user-attachments/assets/cde0c76e-7658-4b7f-8366-aa2f550a3103" />
+
 
 ## Technologies
 - C#
