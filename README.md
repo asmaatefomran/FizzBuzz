@@ -18,6 +18,8 @@ A C# application that replaces every third alphanumeric word with "Fizz", every 
 cd FizzBuzz
 dotnet run
 ```
+<img width="706" height="272" alt="image" src="https://github.com/user-attachments/assets/170c2fa1-de69-4ec7-830b-87194ce6069d" />
+
 
 ## Run Unit Tests
 
